@@ -1,8 +1,8 @@
 # Javascript Calculator
 
 [![Adithya Suresh Babu - javascript-calculator](https://img.shields.io/static/v1?label=AlexFlorides&message=javascript-calculator&color=blue&logo=github)](https://github.com/Adithya-ScriptKindle/javaascript_simple_calculator "Go to GitHub repo")
-[![stars - javascript-calculator](https://img.shields.io/github/stars/Adithya-ScriptKindle/javascript-calculator?style=social)](https://github.com/Adithya-ScriptKindle/javascript-calculator)
-[![forks - javascript-calculator](https://img.shields.io/github/forks/Adithya-ScriptKindle/javascript-calculator?style=social)](https://github.com/Adithya-ScriptKindle/javascript-calculator)
+[![stars - javascript-calculator](https://img.shields.io/github/stars/Adithya-ScriptKindle/javaascript_simple_calculator?style=social)](https://github.com/Adithya-ScriptKindle/javaascript_simple_calculator)
+[![forks - javascript-calculator](https://img.shields.io/github/forks/Adithya-ScriptKindle/javaascript_simple_calculator?style=social)](https://github.com/Adithya-ScriptKindle/javaascript_simple_calculator)
 
 ---
 
