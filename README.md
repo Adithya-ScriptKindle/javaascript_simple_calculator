@@ -1,8 +1,8 @@
 # Javascript Calculator
 
-[![AlexFlorides - javascript-calculator](https://img.shields.io/static/v1?label=AlexFlorides&message=javascript-calculator&color=blue&logo=github)](https://github.com/AlexFlorides/javascript-calculator "Go to GitHub repo")
-[![stars - javascript-calculator](https://img.shields.io/github/stars/AlexFlorides/javascript-calculator?style=social)](https://github.com/AlexFlorides/javascript-calculator)
-[![forks - javascript-calculator](https://img.shields.io/github/forks/AlexFlorides/javascript-calculator?style=social)](https://github.com/AlexFlorides/javascript-calculator)
+[![Adithya Suresh Babu - javascript-calculator](https://img.shields.io/static/v1?label=AlexFlorides&message=javascript-calculator&color=blue&logo=github)](https://github.com/Adithya-ScriptKindle/javaascript_simple_calculator "Go to GitHub repo")
+[![stars - javascript-calculator](https://img.shields.io/github/stars/Adithya-ScriptKindle/javascript-calculator?style=social)](https://github.com/Adithya-ScriptKindle/javascript-calculator)
+[![forks - javascript-calculator](https://img.shields.io/github/forks/Adithya-ScriptKindle/javascript-calculator?style=social)](https://github.com/Adithya-ScriptKindle/javascript-calculator)
 
 ---
 
@@ -21,8 +21,6 @@ A simple calculator built using vanilla HTML, CSS and JavaScript.
 - Last operation will show up above the input box every time any of the operators is selected.
 
 ## Demo
-
-[![View site - GH Pages](https://img.shields.io/badge/View_site-GH_Pages-2ea44f?style=for-the-badge)](https://alexflorides.github.io/javascript-calculator/)
 
 ![javascript-calculator](https://user-images.githubusercontent.com/47948084/230783857-6933cdde-4cba-43f5-8aeb-ef992d9507dc.png)
 
